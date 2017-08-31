@@ -1,6 +1,6 @@
-# Automation Project
+# Bug App Project
 
-*Structure for creating a basic automation test using Selenium.*
+*Creating an application that registers bug into the system.*
 
 **Java 8**
 
@@ -8,7 +8,7 @@
 * JUnit 4.12
 * Selenium 2.53
 
-Automation Project using Selenium.
+
 
 [Trung-Hieu Dam](https://github.com/trunghieud)
 
